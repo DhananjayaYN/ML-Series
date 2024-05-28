@@ -1,2 +1,3 @@
 # ML-Series
-This is my first repository of Machine Learning. All the projects and some parts of lessons are explained end to end from begin.
+Welcome to the Machine Learning Repository! This repository contains a comprehensive collection of machine learning lessons, algorithms, and projects implemented in Python, designed to facilitate your learning and application of machine learning techniques through practical examples. 
+The lessons cover a wide range of topics including an introduction to machine learning, data preprocessing, various regression and classification techniques, clustering methods, and model evaluation strategies. The repository also features implementations of key machine learning algorithms such as Linear Regression, Decision Trees, Random Forests, and Neural Networks.
